@@ -29,10 +29,12 @@ body{
 .each-inventory{
 	margin: 10px auto;
 	padding: 15px;
+	height: 75px;
 	background-color: #bbb;
 }
 button, .add-sub-btn{
 	cursor: pointer;
+	vertical-align: middle;
 }
 .current-val-input{
 	border: solid 1px #000;
@@ -47,14 +49,21 @@ button, .add-sub-btn{
 	color: #fff;
 }
 .sub{
-	background-color: red;
+	background-color: #801547;
 }
-.add-to-cart{
+.add-to-cart, .delete-from-cart{
 	width: 100px;
 	float: right;
-	background-color: blue;
+	background-color: #0d0d8c;
 	border: solid 1px #000;
 	color: #fff;
 	padding: 10px;
 	border-radius: 5px;
+}
+
+.each-cart{
+	height: 75px;
+	margin: 10px auto;
+	padding: 15px;
+	background-color: #bbb;
 }
