@@ -1,1 +1,1 @@
-{"db":{"cart":{"orange":"42","apple":0},"inventory":[{"content":"apple","id":1,"count":0},{"content":"peach","id":2,"count":0}]}}
+{"db":{"cart":{"orange":0,"apple":2},"inventory":[{"content":"apple","id":1,"count":0},{"content":"peach","id":2,"count":0}]}}

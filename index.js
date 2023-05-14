@@ -288,3 +288,4 @@ const Controller = ((model, view) => {
 })(Model, View);
 
 Controller.bootstrap();
+//testing git command
